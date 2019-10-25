@@ -28,7 +28,7 @@ section {
 #result {
   text-align: center;
 }
-button:hover {
+button:hover, button:active {
   cursor: pointer;
   transform: scale(1.3, 1.3);
   box-shadow: 1px 1px 10px black;
