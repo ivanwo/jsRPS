@@ -6,8 +6,8 @@ body {
   background-color: linen;
 }
 h1 {
-  font-size: 5em;
-  margin: 0 0 -15px;
+  font-size: 3em;
+  margin: 25px 0 -10px;
   text-shadow: 1px 1px 10px white;
 }
 header {
@@ -58,5 +58,8 @@ nav {
   }
   #choice {
     margin: 0 100px;
+  }
+  h1 {
+    font-size: 7em;
   }
 }
